@@ -2,9 +2,12 @@
 
 A simple ML-powered Streamlit web app that predicts whether a movie will be a success or flop based on various input features.
  
-       ![image](https://github.com/user-attachments/assets/a1a745e7-76c3-46a7-8943-ff11dd463dc9)
-
 ---
+## Dataset : 
+
+  https://drive.google.com/file/d/1BIyhH9icwlQKmlUc9sPeVTcEN7hZgyEe/view?usp=drive_link
+
+ ![image](https://github.com/user-attachments/assets/a1a745e7-76c3-46a7-8943-ff11dd463dc9)
 
 -Sucess:![image](https://github.com/user-attachments/assets/44c6320e-83d2-4055-8c08-7af8df2ad63d)
 
